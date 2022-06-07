@@ -1,1 +1,1 @@
-# tournament--tracker
+# tournament-tracker
