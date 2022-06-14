@@ -1,6 +1,6 @@
 # tournament-tracker
 
-## June 13, 2022
+:white_check_mark: June 13, 2022
 
 ### Lesson 1 : Initial Planning
 
@@ -13,7 +13,7 @@ ask questions.
 - Ask what type of reporting is needed
 - Are there varying level of access?
 
-## June 14, 2022
+:white_check_mark: June 14, 2022
 
 ### Lesson 2 : Overview Planning
 
