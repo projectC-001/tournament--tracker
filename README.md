@@ -1,8 +1,8 @@
 # tournament-tracker
 
-##June 13, 2022
+## June 13, 2022
 
-###Lesson 1 : Takeaways
+### Lesson 1 : Takeaways
 - Always gather the requirement first, don’t do a rookie mistake of directly jumping into the code
 - Always gather the full requirement
 - Ask questions and gather more requirements
