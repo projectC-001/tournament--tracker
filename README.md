@@ -13,6 +13,8 @@ ask questions.
 - Ask what type of reporting is needed
 - Are there varying level of access?
 
+
+
 :white_check_mark: June 14, 2022
 
 ### Lesson 2 : Overview Planning
@@ -48,3 +50,43 @@ equally. The team should be able to name their team.
 - Interfaces
 - Random ordering
 - Texting (Possible add-on)
+
+
+
+### Lesson 3 : Data Design
+
+**Mapping the data:**
+
+Team:
+- TeamMembers (List<Person>)
+- ReamName (string)
+
+Person:
+- FirstName (string)
+- LastName (string)
+- EmailAddress (string)
+- CellphoneNumber (string)
+
+Tournament:
+- TournamentName (string)
+- EntryFee (decimal)
+- EnteredTeams (List<Team>)
+- Prizes (List<Prize>)
+- Rounds (List<List<Matchup>>)
+
+Price
+- PlaceNumber (int)
+- PlaceName (string)
+- PrizeAmount (decimal)
+- PrizePercentage (double)
+
+Matchup
+- Entries (List<MatchupEntry>)
+- Winner (Team)
+- MatchupRound (int)
+
+MatchupEntry
+- TeamCompeting (Team)
+- Score (double)
+- ParentMatchup (Matchup)
+
