@@ -87,3 +87,23 @@ MatchupEntry
 	- Score (double)
 	- ParentMatchup (Matchup)
 
+
+:white_check_mark: June 15, 2022
+
+### Lesson 4 : User Interface Design
+
+Tournament viewer form
+![Tournament-viewer](images/tournament-viewer.png)￼
+
+Create tournament form
+![Create-tournament](images/create-tournament.png)￼
+
+Create team
+![Create-team](images/create-team.png)￼
+
+Create Prize
+![Create-prize](images/create-prize.png)￼
+
+Tournament dashboard
+![Tournament-dashboard](images/tournament-dashboard.png)￼
+
