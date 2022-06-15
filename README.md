@@ -1,6 +1,6 @@
 # tournament-tracker
 
-:white_check_mark: June 13, 2022
+## :white_check_mark: June 13, 2022
 
 ### Lesson 1 : Initial Planning
 
@@ -15,7 +15,7 @@ ask questions.
 
 
 
-:white_check_mark: June 14, 2022
+## :white_check_mark: June 14, 2022
 
 ### Lesson 2 : Overview Planning
 
@@ -91,7 +91,7 @@ MatchupEntry
 - ParentMatchup (Matchup)
 
 
-:white_check_mark: June 15, 2022
+## :white_check_mark: June 15, 2022
 
 ### Lesson 4 : User Interface Design
 
@@ -99,7 +99,7 @@ Tournament viewer form
 ![Tournament-viewer](images/tournament-viewer.png)￼
 
 Create tournament form
-![Create-tournament](images/create-tournament.png)￼
+![Create-tournament](images/tournament-create.png)￼
 
 Create team
 ![Create-team](images/create-team.png)￼
