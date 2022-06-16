@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/summitkhatiwada/Documents/tech/dotnet/tournament-tracker/tournament-tracker.csproj",
-      "projectName": "tournament-tracker",
-      "projectPath": "/Users/summitkhatiwada/Documents/tech/dotnet/tournament-tracker/tournament-tracker.csproj",
+      "projectUniqueName": "/Users/summitkhatiwada/Projects/tournament-tracker/TournamentTracker/TrackerLibrary/TrackerLibrary.csproj",
+      "projectName": "TrackerLibrary",
+      "projectPath": "/Users/summitkhatiwada/Projects/tournament-tracker/TournamentTracker/TrackerLibrary/TrackerLibrary.csproj",
       "packagesPath": "/Users/summitkhatiwada/.nuget/packages/",
-      "outputPath": "/Users/summitkhatiwada/Documents/tech/dotnet/tournament-tracker/obj/",
+      "outputPath": "/Users/summitkhatiwada/Projects/tournament-tracker/TournamentTracker/TrackerLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/summitkhatiwada/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -59,7 +59,7 @@ equally. The team should be able to name their team.
 
 Team:
 - TeamMembers (List<Person>)
-- ReamName (string)
+- TeamName (string)
 
 Person:
 - FirstName (string)
@@ -115,3 +115,13 @@ Tournament dashboard\
 
 In this step, go over each button that you planned in the front end. Decide what these buttons are 
 going to do.
+
+
+## :white_check_mark: June 16, 2022
+
+### Lesson 6 : Class Library Creation
+ 
+- Created class libraries from the list planned in the design phase
+- Implemented class library in visual studio
+- Added XML comments in the class definition
+
