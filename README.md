@@ -103,6 +103,7 @@ Create tournament form
 
 Create team
 ![Create-team](images/create-team.png)￼
+- Delete button is mission on create team. Note to add that in the program.
 
 Create Prize
 ![Create-prize](images/create-prize.png)￼
@@ -110,3 +111,7 @@ Create Prize
 Tournament dashboard
 ![Tournament-dashboard](images/tournament-dashboard.png)￼
 
+### Lesson 5 : Logic Planning
+
+In this step, go over each button that you planned in the front end. Decide what these buttons are 
+going to do.
