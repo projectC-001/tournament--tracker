@@ -128,7 +128,41 @@ going to do.
 
 ## :white_check_mark: July 10, 2022
 
-### Lesson 7 : Form Creation
- 
+### Lesson 7 : Form Building
+
 - Created 5 windows form for all the features
+
+
+## :white_check_mark: July 11, 2022
+
+### Lesson 8 : SQL Database Design
+ 
+Relationship of classes\
+![Database-relationship](images/database-relationship.png)
+
+> The SQL database design was done by downloading My SQL Server and SQL Server Management Studio(SSMS).
+
+In SQL, Cascade deleted the Primary Key(PK) related dagta drom all the related table.
+
+```sql
+create database Tournaments
+-- creates a new database named Tournaments
+
+select top 1000 *
+-- only searches in the first 1000 records
+select FirstName, LastName
+-- only searches in these two parameters
+select FirstName as 'First Name'
+-- renames FirstName to First Name
+
+from Test
+-- select from test table
+where LastName = 'apple'
+-- finds all record with lastname apple, also it is case insensitive
+where LastName like 'app%'
+-- use this command if you are not sure about the full lastname
+order by FirstName
+```
+
+
 
