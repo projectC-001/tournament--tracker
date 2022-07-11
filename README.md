@@ -125,3 +125,10 @@ going to do.
 - Implemented class library in visual studio
 - Added XML comments in the class definition
 
+
+## :white_check_mark: July 10, 2022
+
+### Lesson 7 : Form Creation
+ 
+- Created 5 windows form for all the features
+
