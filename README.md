@@ -96,20 +96,20 @@ MatchupEntry
 ### Lesson 4 : User Interface Design
 
 Tournament viewer form\
-![Tournament-viewer](images/tournament-viewer.png)￼
+![Tournament-viewer](images/tournament-viewer.png)
 
 Create tournament form\
-![Create-tournament](images/tournament-create.png)￼
+![Create-tournament](images/tournament-create.png)
 
 Create team\
-![Create-team](images/create-team.png)￼
+![Create-team](images/create-team.png)
 - Delete button is mission on create team. Note to add that in the program.
 
 Create Prize\
-![Create-prize](images/create-prize.png)￼
+![Create-prize](images/create-prize.png)
 
 Tournament dashboard\
-![Tournament-dashboard](images/tournament-dashboard.png)￼
+![Tournament-dashboard](images/tournament-dashboard.png)
 
 ### Lesson 5 : Logic Planning
 
