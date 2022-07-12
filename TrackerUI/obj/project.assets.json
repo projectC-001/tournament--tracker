@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "TrackerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TrackerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TrackerLibrary/TrackerLibrary.csproj",
+      "msbuildProject": "../TrackerLibrary/TrackerLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "TrackerLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Summit Khatiwada\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectUniqueName": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerUI\\TrackerUI.csproj",
       "projectName": "TrackerUI",
-      "projectPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerUI\\TrackerUI.csproj",
       "packagesPath": "C:\\Users\\Summit Khatiwada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerUI\\obj\\",
+      "outputPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Summit Khatiwada\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+              "projectPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerLibrary\\TrackerLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
