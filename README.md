@@ -165,4 +165,18 @@ order by FirstName
 ```
 
 
+## :white_check_mark: July 12, 2022
+
+### Lesson 9 : Prize Form Wire Up
+>***Questions to ask:***\
+> How do we get the connection information?\
+> How do we connect to two different data sources to do the same task? 
+
+* We can use TODO in comments and view the TODO list under View > Task List
+
+
+
+
+
+
 

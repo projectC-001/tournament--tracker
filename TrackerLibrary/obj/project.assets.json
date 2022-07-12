@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\Summit Khatiwada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Summit Khatiwada\\Projects\\tournament-tracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Summit Khatiwada\\AppData\\Roaming\\NuGet\\NuGet.Config",
