@@ -1,1 +1,4 @@
-TrackerUI/bin/Debug
+TrackerLibrary/bin/*
+TrackerLibrary/obj/*
+TrackerUI/bin/*
+TrackerUI/obj/*
