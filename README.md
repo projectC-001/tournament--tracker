@@ -175,8 +175,12 @@ order by FirstName
 * We can use TODO in comments and view the TODO list under View > Task List
 
 
+## :white_check_mark: July 13, 2022
 
-
+### Lesson 10 : SQL Connection
+- Wrote the SQL logic.
+- Connected the application to SQL database.
+- Wired up and testedc prize console.
 
 
 
