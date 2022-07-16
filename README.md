@@ -180,7 +180,14 @@ order by FirstName
 ### Lesson 10 : SQL Connection
 - Wrote the SQL logic.
 - Connected the application to SQL database.
-- Wired up and testedc prize console.
+- Wired up and tested prize console.
+
+## :white_check_mark: July 16, 2022
+
+### Lesson 11 : Text Connection
+- Wrote the text file logic.
+- Connected the application to local text folder.
+- Wired up and tested prize console.
 
 
 
