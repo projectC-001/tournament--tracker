@@ -1,4 +1,5 @@
-TrackerLibrary/bin/*
-TrackerLibrary/obj/*
-TrackerUI/bin/*
-TrackerUI/obj/*
+*/bin/
+*/obj/*
+
+.vs/
+.vscode/
